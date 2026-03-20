@@ -56,6 +56,7 @@ This is work in progress: please contribute by sending your suggestions. You may
     - [Hardware - CPU - BIOS - UEFI](#hardware---cpu---bios---uefi-1)
     - [Docker](#docker)
     - [Cloud](#cloud-1)
+    - [DNS](#dns-1)
   - [Tools to apply security hardening](#tools-to-apply-security-hardening)
     - [GNU/Linux](#gnulinux-2)
     - [Windows](#windows-2)
